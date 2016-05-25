@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For SingleDS18B20
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SingleDS18B20			KEYWORD1
+OneWire					KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setResolution			KEYWORD2
+convert					KEYWORD2
+read					KEYWORD2
+write					KEYWORD2
+copy					KEYWORD2
+recall					KEYWORD2
+getTempAsRaw	 		KEYWORD2
+getTempAsC				KEYWORD2
+setUserData				KEYWORD2
+getUserData				KEYWORD2
+getResolution			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+res9bit					LITERAL1
+res10bit				LITERAL1
+res11bit				LITERAL1
+res12bit				LITERAL1
